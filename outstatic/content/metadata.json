@@ -1,6 +1,6 @@
 {
-  "commit": "00e4641ab46e4138dea5aa7bd8f83ae7fbb6f127",
-  "generated": "2025-04-25T08:52:20.319Z",
+  "commit": "d4c82a2854907c709dadd780122e004b50d2b969",
+  "generated": "2025-04-25T08:57:46.721Z",
   "metadata": [
     {
       "__outstatic": {
@@ -17,6 +17,22 @@
       "slug": "index",
       "status": "published",
       "title": "Getting Started"
+    },
+    {
+      "__outstatic": {
+        "commit": "d4c82a2854907c709dadd780122e004b50d2b969",
+        "hash": "3087019985",
+        "path": "outstatic/content/docs/title2.mdx"
+      },
+      "author": {
+        "name": "nuntita",
+        "picture": "https://avatars.githubusercontent.com/u/209069352?v=4"
+      },
+      "collection": "docs",
+      "publishedAt": "2025-04-25T09:39:25.093Z",
+      "slug": "title2",
+      "status": "draft",
+      "title": "Title2"
     }
   ]
 }
