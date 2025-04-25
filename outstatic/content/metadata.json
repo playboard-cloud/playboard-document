@@ -1,0 +1,22 @@
+{
+  "commit": "",
+  "generated": "2025-04-25T05:07:24.463Z",
+  "metadata": [
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "401914666",
+        "path": "outstatic/content/docs/index.mdx"
+      },
+      "author": {
+        "name": "Max Murray",
+        "picture": "https://avatars.githubusercontent.com/u/78588986?v=4"
+      },
+      "collection": "docs",
+      "publishedAt": "2025-04-25T05:49:02.531Z",
+      "slug": "index",
+      "status": "published",
+      "title": "Getting Started"
+    }
+  ]
+}
