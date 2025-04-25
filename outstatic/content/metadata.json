@@ -1,6 +1,6 @@
 {
-  "commit": "d4c82a2854907c709dadd780122e004b50d2b969",
-  "generated": "2025-04-25T08:57:46.721Z",
+  "commit": "51e2de9f6f194ae31c83342c9e995d99ee091956",
+  "generated": "2025-04-25T08:58:19.739Z",
   "metadata": [
     {
       "__outstatic": {
@@ -20,8 +20,8 @@
     },
     {
       "__outstatic": {
-        "commit": "d4c82a2854907c709dadd780122e004b50d2b969",
-        "hash": "3087019985",
+        "commit": "51e2de9f6f194ae31c83342c9e995d99ee091956",
+        "hash": "2244455022",
         "path": "outstatic/content/docs/title2.mdx"
       },
       "author": {
@@ -31,7 +31,7 @@
       "collection": "docs",
       "publishedAt": "2025-04-25T09:39:25.093Z",
       "slug": "title2",
-      "status": "draft",
+      "status": "published",
       "title": "Title2"
     }
   ]
