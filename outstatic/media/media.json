@@ -1,6 +1,17 @@
 {
-  "commit": "f4e680d36d1ec6897e4ff351c1f3af0d2daeb3a8",
-  "generated": "2025-04-28T03:50:27.027Z",
+  "commit": "fb2e457d61de44890e214482fc584efc9219d02e",
+  "generated": "2025-04-28T04:00:30.276Z",
   "media": [
+    {
+      "__outstatic": {
+        "commit": "fb2e457d61de44890e214482fc584efc9219d02e",
+        "hash": "2388896729",
+        "path": "public/images/nav-layout-home-c5NT.webp"
+      },
+      "alt": "",
+      "filename": "nav-layout-home-c5NT.webp",
+      "publishedAt": "2025-04-28T04:00:30.276Z",
+      "type": "image"
+    }
   ]
 }
