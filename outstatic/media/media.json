@@ -1,6 +1,6 @@
 {
-  "commit": "",
-  "generated": "Mon, 28 Apr 2025 09:40:19 GMT",
+  "commit": "c6d7acadc2d05728c5941c32a7a776f57d29e39f",
+  "generated": "2025-04-28T09:42:30.154Z",
   "media": [
     {
       "__outstatic": {
@@ -22,6 +22,17 @@
       "alt": "",
       "filename": "nav-layout-home-czNj.webp",
       "publishedAt": "2025-04-28T09:40:18.891Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "c6d7acadc2d05728c5941c32a7a776f57d29e39f",
+        "hash": "3794437865",
+        "path": "public/images/upload-button-b-I3Nj.png"
+      },
+      "alt": "",
+      "filename": "upload-button-b-I3Nj.png",
+      "publishedAt": "2025-04-28T09:42:30.152Z",
       "type": "image"
     }
   ]

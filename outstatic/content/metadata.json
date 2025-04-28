@@ -1,6 +1,6 @@
 {
-  "commit": "eec4dcf919afc25be6038ea579d50641bc275335",
-  "generated": "2025-04-28T09:40:23.498Z",
+  "commit": "c6d7acadc2d05728c5941c32a7a776f57d29e39f",
+  "generated": "2025-04-28T09:42:30.154Z",
   "metadata": [
     {
       "__outstatic": {
@@ -21,8 +21,8 @@
     },
     {
       "__outstatic": {
-        "commit": "eec4dcf919afc25be6038ea579d50641bc275335",
-        "hash": "1174177254",
+        "commit": "c6d7acadc2d05728c5941c32a7a776f57d29e39f",
+        "hash": "371680061",
         "path": "outstatic/content/docs/upload-video.mdx"
       },
       "author": {
@@ -33,7 +33,7 @@
       "coverImage": "",
       "publishedAt": "2025-04-28T07:37:08.579Z",
       "slug": "upload-video",
-      "status": "draft",
+      "status": "published",
       "title": "การอัปโหลดเนื้อหา"
     }
   ]
