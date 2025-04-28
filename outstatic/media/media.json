@@ -1,18 +1,7 @@
 {
-  "commit": "c54763a08c985b62b4c040270804da1fd67e1f63",
-  "generated": "2025-04-28T04:03:40.124Z",
+  "commit": "fb8f10b92408b1747f5ffc3e476bd9209220355d",
+  "generated": "2025-04-28T04:51:14.757Z",
   "media": [
-    {
-      "__outstatic": {
-        "commit": "c54763a08c985b62b4c040270804da1fd67e1f63",
-        "hash": "3552925750",
-        "path": "public/images/500x500-Q4OD.jpg"
-      },
-      "alt": "",
-      "filename": "500x500-Q4OD.jpg",
-      "publishedAt": "2025-04-28T04:03:40.124Z",
-      "type": "image"
-    },
     {
       "__outstatic": {
         "commit": "fb2e457d61de44890e214482fc584efc9219d02e",
