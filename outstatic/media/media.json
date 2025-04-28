@@ -1,17 +1,6 @@
 {
-  "commit": "89c6d4543fd3cbc744a06b1fd4fff75d84b3598a",
-  "generated": "2025-04-28T03:12:12.361Z",
+  "commit": "f4e680d36d1ec6897e4ff351c1f3af0d2daeb3a8",
+  "generated": "2025-04-28T03:50:27.027Z",
   "media": [
-    {
-      "__outstatic": {
-        "commit": "",
-        "hash": "2388896729",
-        "path": "public/images/nav-layout-home-EwOT.webp"
-      },
-      "alt": "",
-      "filename": "nav-layout-home-EwOT.webp",
-      "publishedAt": "2025-04-28T03:00:53.853Z",
-      "type": "image"
-    }
   ]
 }
