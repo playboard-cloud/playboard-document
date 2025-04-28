@@ -1,6 +1,17 @@
 {
-  "commit": "95136ef3f694f9e599559b651c818e22235aea79",
-  "generated": "2025-04-28T04:51:17.415Z",
+  "commit": "3a1a39ebc4e2e4f970071248e8891b8f5314adaf",
+  "generated": "2025-04-28T06:03:40.000Z",
   "media": [
+    {
+      "__outstatic": {
+        "commit": "3a1a39ebc4e2e4f970071248e8891b8f5314adaf",
+        "hash": "2388896729",
+        "path": "public/images/nav-layout-home-czNj.webp"
+      },
+      "alt": "",
+      "filename": "nav-layout-home-czNj.webp",
+      "publishedAt": "2025-04-28T06:03:40.000Z",
+      "type": "image"
+    }
   ]
 }
