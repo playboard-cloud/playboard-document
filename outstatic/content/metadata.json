@@ -1,11 +1,11 @@
 {
-  "commit": "",
-  "generated": "Mon, 28 Apr 2025 03:19:09 GMT",
+  "commit": "1f1f01eaab68ff23d3247a4ff7c14a5a81cbd7fd",
+  "generated": "2025-04-28T03:21:54.244Z",
   "metadata": [
     {
       "__outstatic": {
-        "commit": "43f1b0a09fcc58b294bc54617d237a11f2191871",
-        "hash": "1657728043",
+        "commit": "1f1f01eaab68ff23d3247a4ff7c14a5a81cbd7fd",
+        "hash": "3566199042",
         "path": "outstatic/content/docs/index.mdx"
       },
       "author": {
@@ -13,6 +13,7 @@
         "picture": "https://avatars.githubusercontent.com/u/78588986?v=4"
       },
       "collection": "docs",
+      "coverImage": "https://i.pinimg.com/736x/b8/25/e1/b825e1484a21bb183466a3890df21c39.jpg",
       "publishedAt": "2025-04-25T05:49:02.531Z",
       "slug": "index",
       "status": "published",
