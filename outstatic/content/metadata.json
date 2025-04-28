@@ -1,11 +1,11 @@
 {
-  "commit": "85c7c28cf9b8b08ec063378a6348b27ac922596c",
-  "generated": "2025-04-25T15:01:19.883Z",
+  "commit": "89c6d4543fd3cbc744a06b1fd4fff75d84b3598a",
+  "generated": "2025-04-28T03:12:12.361Z",
   "metadata": [
     {
       "__outstatic": {
-        "commit": "85c7c28cf9b8b08ec063378a6348b27ac922596c",
-        "hash": "1657728043",
+        "commit": "89c6d4543fd3cbc744a06b1fd4fff75d84b3598a",
+        "hash": "852485347",
         "path": "outstatic/content/docs/index.mdx"
       },
       "author": {
