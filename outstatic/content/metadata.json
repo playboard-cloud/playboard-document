@@ -1,11 +1,11 @@
 {
-  "commit": "f23c33d5ef2af088ab6cac4edbb2e9cb7a456429",
-  "generated": "2025-04-28T03:50:41.969Z",
+  "commit": "929a95bb6a90efc81909693f045a6964efac5f5b",
+  "generated": "2025-04-28T04:00:58.632Z",
   "metadata": [
     {
       "__outstatic": {
-        "commit": "f23c33d5ef2af088ab6cac4edbb2e9cb7a456429",
-        "hash": "4155892984",
+        "commit": "929a95bb6a90efc81909693f045a6964efac5f5b",
+        "hash": "3321521334",
         "path": "outstatic/content/docs/index.mdx"
       },
       "author": {
@@ -13,7 +13,7 @@
         "picture": "https://avatars.githubusercontent.com/u/78588986?v=4"
       },
       "collection": "docs",
-      "coverImage": "",
+      "coverImage": "/images/nav-layout-home-c5NT.webp",
       "publishedAt": "2025-04-25T05:49:02.531Z",
       "slug": "index",
       "status": "published",
