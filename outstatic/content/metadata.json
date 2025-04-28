@@ -1,6 +1,6 @@
 {
-  "commit": "06c3fc4c1561a10bd3da98484144bd4c97e774da",
-  "generated": "2025-04-28T06:28:46.460Z",
+  "commit": "b0c6b41943a8427ad1b830ba4cd338011a36e3c3",
+  "generated": "2025-04-28T06:55:19.854Z",
   "metadata": [
     {
       "__outstatic": {
@@ -18,6 +18,23 @@
       "slug": "index",
       "status": "published",
       "title": "Getting Started"
+    },
+    {
+      "__outstatic": {
+        "commit": "b0c6b41943a8427ad1b830ba4cd338011a36e3c3",
+        "hash": "447179835",
+        "path": "outstatic/content/docs/thds-b.mdx"
+      },
+      "author": {
+        "name": "kanpech-t",
+        "picture": "https://avatars.githubusercontent.com/u/72343634?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "publishedAt": "2025-04-28T07:37:08.579Z",
+      "slug": "thds-b",
+      "status": "draft",
+      "title": "ทดสอบ"
     }
   ]
 }
