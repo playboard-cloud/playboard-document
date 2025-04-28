@@ -1,11 +1,11 @@
 {
-  "commit": "e1c1659b3e83c7e5c1c204e52dfe3a590578293d",
-  "generated": "2025-04-28T06:25:00.530Z",
+  "commit": "06c3fc4c1561a10bd3da98484144bd4c97e774da",
+  "generated": "2025-04-28T06:28:46.460Z",
   "metadata": [
     {
       "__outstatic": {
-        "commit": "e1c1659b3e83c7e5c1c204e52dfe3a590578293d",
-        "hash": "3457719585",
+        "commit": "06c3fc4c1561a10bd3da98484144bd4c97e774da",
+        "hash": "2310802461",
         "path": "outstatic/content/docs/index.mdx"
       },
       "author": {
@@ -13,7 +13,7 @@
         "picture": "https://avatars.githubusercontent.com/u/78588986?v=4"
       },
       "collection": "docs",
-      "coverImage": "/images/nav-layout-home-czNj.webp",
+      "coverImage": "",
       "publishedAt": "2025-04-25T05:49:02.531Z",
       "slug": "index",
       "status": "published",
