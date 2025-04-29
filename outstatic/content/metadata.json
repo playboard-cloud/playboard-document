@@ -1,6 +1,6 @@
 {
-  "commit": "413b96a033ada762dcc3897ff1fd82bf50979dd0",
-  "generated": "2025-04-29T08:43:04.497Z",
+  "commit": "5f1a56254714358771f934b8c2b7c788ec8972f0",
+  "generated": "2025-04-29T08:44:16.524Z",
   "metadata": [
     {
       "__outstatic": {
@@ -72,8 +72,8 @@
     },
     {
       "__outstatic": {
-        "commit": "413b96a033ada762dcc3897ff1fd82bf50979dd0",
-        "hash": "4132932318",
+        "commit": "5f1a56254714358771f934b8c2b7c788ec8972f0",
+        "hash": "3546612671",
         "path": "outstatic/content/docs/payment-setting.mdx"
       },
       "author": {
@@ -84,7 +84,7 @@
       "coverImage": "",
       "publishedAt": "2025-04-29T08:08:43.713Z",
       "slug": "payment-setting",
-      "status": "draft",
+      "status": "published",
       "title": "หน้าตั้งค่าการรับชำระจากผู้ซื้อ"
     }
   ]
