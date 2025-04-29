@@ -1,6 +1,6 @@
 {
-  "commit": "0fd40a8516c84dadb247a55dadc554274eba109c",
-  "generated": "2025-04-29T10:20:15.357Z",
+  "commit": "c6edd834cec39b4e744ca992d538beaa8cd23181",
+  "generated": "2025-04-29T10:22:54.317Z",
   "metadata": [
     {
       "__outstatic": {
@@ -120,6 +120,23 @@
       "slug": "order-history",
       "status": "published",
       "title": "หน้ารายการคำสั่งซื้อ"
+    },
+    {
+      "__outstatic": {
+        "commit": "c6edd834cec39b4e744ca992d538beaa8cd23181",
+        "hash": "582780438",
+        "path": "outstatic/content/docs/package.mdx"
+      },
+      "author": {
+        "name": "kanpech-t",
+        "picture": ""
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "publishedAt": "2025-04-29T11:04:21.424Z",
+      "slug": "package",
+      "status": "draft",
+      "title": "หน้าแพ็กเกจที่ใช้งาน"
     }
   ]
 }
