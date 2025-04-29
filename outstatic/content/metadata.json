@@ -1,6 +1,6 @@
 {
-  "commit": "8d31047c0e241dfc8de624caac75e6c8f1e40322",
-  "generated": "2025-04-29T06:49:51.572Z",
+  "commit": "b7bb8203fd439fca3feda887dd0799dc7d19c7ec",
+  "generated": "2025-04-29T06:50:08.063Z",
   "metadata": [
     {
       "__outstatic": {
@@ -55,13 +55,13 @@
     },
     {
       "__outstatic": {
-        "commit": "8d31047c0e241dfc8de624caac75e6c8f1e40322",
-        "hash": "784787748",
+        "commit": "b7bb8203fd439fca3feda887dd0799dc7d19c7ec",
+        "hash": "3156873378",
         "path": "outstatic/content/docs/change-course-price.mdx"
       },
       "author": {
-        "name": "Irisia",
-        "picture": "https://avatars.githubusercontent.com/u/78334455?v=4"
+        "name": "Maikan",
+        "picture": ""
       },
       "collection": "docs",
       "coverImage": "",
