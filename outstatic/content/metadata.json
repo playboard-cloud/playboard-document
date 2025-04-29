@@ -1,6 +1,6 @@
 {
-  "commit": "2985f493c2c2138c9a979350fe3c638d83e1b4fe",
-  "generated": "2025-04-29T06:42:22.051Z",
+  "commit": "a7d80db13daa1fa975199837188dfdb51376cf8a",
+  "generated": "2025-04-29T06:42:42.854Z",
   "metadata": [
     {
       "__outstatic": {
@@ -38,8 +38,8 @@
     },
     {
       "__outstatic": {
-        "commit": "2985f493c2c2138c9a979350fe3c638d83e1b4fe",
-        "hash": "2271973326",
+        "commit": "a7d80db13daa1fa975199837188dfdb51376cf8a",
+        "hash": "1122835146",
         "path": "outstatic/content/docs/video-setting.mdx"
       },
       "author": {
@@ -50,7 +50,7 @@
       "coverImage": "",
       "publishedAt": "2025-04-29T07:01:10.811Z",
       "slug": "video-setting",
-      "status": "draft",
+      "status": "published",
       "title": "หน้ารายละเอียดเนื้อหา"
     }
   ]
