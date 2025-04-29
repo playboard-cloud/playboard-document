@@ -1,6 +1,6 @@
 {
-  "commit": "c75eacc191ed8824f44ff83a4aa82d05c5816f3d",
-  "generated": "2025-04-29T09:57:47.662Z",
+  "commit": "228d0c5dabfc74057f0e29e5a23e6ed583ebf507",
+  "generated": "2025-04-29T09:58:03.425Z",
   "metadata": [
     {
       "__outstatic": {
@@ -106,9 +106,9 @@
     },
     {
       "__outstatic": {
-        "commit": "c75eacc191ed8824f44ff83a4aa82d05c5816f3d",
-        "hash": "512522878",
-        "path": "outstatic/content/docs/hnaaraaylae-iiydkhamsangchuue.mdx"
+        "commit": "228d0c5dabfc74057f0e29e5a23e6ed583ebf507",
+        "hash": "419300736",
+        "path": "outstatic/content/docs/order-detail.mdx"
       },
       "author": {
         "name": "kanpech-t",
@@ -117,7 +117,7 @@
       "collection": "docs",
       "coverImage": "",
       "publishedAt": "2025-04-29T10:37:17.170Z",
-      "slug": "hnaaraaylae-iiydkhamsangchuue",
+      "slug": "order-detail",
       "status": "draft",
       "title": "หน้ารายละเอียดคำสั่งซื้อ"
     }
