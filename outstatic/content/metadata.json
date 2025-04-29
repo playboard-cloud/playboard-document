@@ -1,6 +1,6 @@
 {
-  "commit": "f60af204a22f3564b41392970e233b7e1586f60e",
-  "generated": "2025-04-29T06:59:08.418Z",
+  "commit": "2b1f9fcdf09b7f2f9d9a925dc34134130eaeacfb",
+  "generated": "2025-04-29T06:59:15.527Z",
   "metadata": [
     {
       "__outstatic": {
@@ -55,8 +55,8 @@
     },
     {
       "__outstatic": {
-        "commit": "f60af204a22f3564b41392970e233b7e1586f60e",
-        "hash": "728111501",
+        "commit": "2b1f9fcdf09b7f2f9d9a925dc34134130eaeacfb",
+        "hash": "3332106910",
         "path": "outstatic/content/docs/change-course-price.mdx"
       },
       "author": {
@@ -67,7 +67,7 @@
       "coverImage": "",
       "publishedAt": "2025-04-29T07:26:46.547Z",
       "slug": "change-course-price",
-      "status": "draft",
+      "status": "published",
       "title": "การแก้ไขราคา"
     }
   ]
