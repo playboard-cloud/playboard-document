@@ -1,6 +1,6 @@
 {
-  "commit": "325c0b9232db5dbe168af57183982b020dbed312",
-  "generated": "2025-04-29T08:44:48.141Z",
+  "commit": "c80f489cde96ce58dd61e7c3036e67c25cb79f4e",
+  "generated": "2025-04-29T08:58:13.412Z",
   "metadata": [
     {
       "__outstatic": {
@@ -86,6 +86,23 @@
       "slug": "payment-setting",
       "status": "published",
       "title": "หน้าตั้งค่าการรับชำระจากผู้ซื้อ"
+    },
+    {
+      "__outstatic": {
+        "commit": "c80f489cde96ce58dd61e7c3036e67c25cb79f4e",
+        "hash": "4132258416",
+        "path": "outstatic/content/docs/hnaaraaykaarkhamsangchuue.mdx"
+      },
+      "author": {
+        "name": "kanpech-t",
+        "picture": ""
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "publishedAt": "2025-04-29T09:27:41.940Z",
+      "slug": "hnaaraaykaarkhamsangchuue",
+      "status": "draft",
+      "title": "หน้ารายการคำสั่งซื้อ"
     }
   ]
 }
