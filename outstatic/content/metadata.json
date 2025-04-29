@@ -1,6 +1,6 @@
 {
-  "commit": "e58c2c8db79b0151523ca4c1ef133d7d3e1481c3",
-  "generated": "2025-04-28T10:15:06.348Z",
+  "commit": "bc71f7cd914040fc1dc2e700be719cb84ccfcd5d",
+  "generated": "2025-04-29T06:20:03.621Z",
   "metadata": [
     {
       "__outstatic": {
@@ -35,6 +35,23 @@
       "slug": "upload-video",
       "status": "published",
       "title": "การอัปโหลดเนื้อหา"
+    },
+    {
+      "__outstatic": {
+        "commit": "bc71f7cd914040fc1dc2e700be719cb84ccfcd5d",
+        "hash": "1592170722",
+        "path": "outstatic/content/docs/hnaaraaylae-iiydenuue-haa.mdx"
+      },
+      "author": {
+        "name": "Irisia",
+        "picture": "https://avatars.githubusercontent.com/u/78334455?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "publishedAt": "2025-04-29T07:01:10.811Z",
+      "slug": "hnaaraaylae-iiydenuue-haa",
+      "status": "draft",
+      "title": "หน้ารายละเอียดเนื้อหา"
     }
   ]
 }
