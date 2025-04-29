@@ -1,6 +1,6 @@
 {
-  "commit": "7ffd108ec0ff84f9b8c1512e9b99efa48807b747",
-  "generated": "2025-04-29T06:29:59.675Z",
+  "commit": "d9709faa013621fee890163c371b7371ad14646a",
+  "generated": "2025-04-29T06:32:19.938Z",
   "metadata": [
     {
       "__outstatic": {
@@ -38,8 +38,8 @@
     },
     {
       "__outstatic": {
-        "commit": "7ffd108ec0ff84f9b8c1512e9b99efa48807b747",
-        "hash": "491510497",
+        "commit": "d9709faa013621fee890163c371b7371ad14646a",
+        "hash": "3477656873",
         "path": "outstatic/content/docs/video-setting.mdx"
       },
       "author": {
