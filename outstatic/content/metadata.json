@@ -1,6 +1,6 @@
 {
-  "commit": "228d0c5dabfc74057f0e29e5a23e6ed583ebf507",
-  "generated": "2025-04-29T09:58:03.425Z",
+  "commit": "e329fcdd4792df97e40f74cedebdaead2a9e825c",
+  "generated": "2025-04-29T09:59:23.684Z",
   "metadata": [
     {
       "__outstatic": {
@@ -106,8 +106,8 @@
     },
     {
       "__outstatic": {
-        "commit": "228d0c5dabfc74057f0e29e5a23e6ed583ebf507",
-        "hash": "419300736",
+        "commit": "e329fcdd4792df97e40f74cedebdaead2a9e825c",
+        "hash": "191932737",
         "path": "outstatic/content/docs/order-detail.mdx"
       },
       "author": {
@@ -118,7 +118,7 @@
       "coverImage": "",
       "publishedAt": "2025-04-29T10:37:17.170Z",
       "slug": "order-detail",
-      "status": "draft",
+      "status": "published",
       "title": "หน้ารายละเอียดคำสั่งซื้อ"
     }
   ]
