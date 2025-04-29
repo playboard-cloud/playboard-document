@@ -1,6 +1,6 @@
 {
-  "commit": "f8b487f8b8e3a3185dd2f88fc12f46bcacd9fbe9",
-  "generated": "2025-04-29T10:38:36.319Z",
+  "commit": "d8a47f66a04debfc95a9f82b98a987d9457d1dca",
+  "generated": "2025-04-29T10:39:37.516Z",
   "metadata": [
     {
       "__outstatic": {
@@ -140,13 +140,13 @@
     },
     {
       "__outstatic": {
-        "commit": "f8b487f8b8e3a3185dd2f88fc12f46bcacd9fbe9",
-        "hash": "1010107064",
+        "commit": "d8a47f66a04debfc95a9f82b98a987d9457d1dca",
+        "hash": "734154331",
         "path": "outstatic/content/docs/what-is-playboard.mdx"
       },
       "author": {
         "name": "kanpech-t",
-        "picture": "https://avatars.githubusercontent.com/u/78334455?v=4"
+        "picture": ""
       },
       "collection": "docs",
       "coverImage": "",
