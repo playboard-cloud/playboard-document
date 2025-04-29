@@ -1,6 +1,6 @@
 {
-  "commit": "b87b3738bdf7f07ab951925e082a8a1d1ad5b010",
-  "generated": "2025-04-29T11:59:06.764Z",
+  "commit": "b3b7f0665dd21f87c872c9a755914788a5f1af54",
+  "generated": "2025-04-29T11:59:19.257Z",
   "metadata": [
     {
       "__outstatic": {
@@ -52,23 +52,6 @@
       "slug": "video-setting",
       "status": "published",
       "title": "หน้ารายละเอียดเนื้อหา"
-    },
-    {
-      "__outstatic": {
-        "commit": "3dbf73640f974f73fab41d475c8f8e342991b985",
-        "hash": "2080683491",
-        "path": "outstatic/content/docs/change-course-price.mdx"
-      },
-      "author": {
-        "name": "kanpech-t",
-        "picture": ""
-      },
-      "collection": "docs",
-      "coverImage": "",
-      "publishedAt": "2025-04-29T07:26:46.547Z",
-      "slug": "change-course-price",
-      "status": "published",
-      "title": "การแก้ไขราคา"
     },
     {
       "__outstatic": {
@@ -188,6 +171,23 @@
       "slug": "get-started",
       "status": "draft",
       "title": "วิธีการใช้งาน Playboard เบื้องต้น"
+    },
+    {
+      "__outstatic": {
+        "commit": "b3b7f0665dd21f87c872c9a755914788a5f1af54",
+        "hash": "1509877607",
+        "path": "outstatic/content/docs/change-course-price.mdx"
+      },
+      "author": {
+        "name": "kanpech-t",
+        "picture": ""
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "publishedAt": "2025-04-29T07:26:46.547Z",
+      "slug": "change-course-price",
+      "status": "published",
+      "title": "การแก้ไขราคา"
     }
   ]
 }
