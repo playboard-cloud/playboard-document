@@ -1,6 +1,6 @@
 {
-  "commit": "78914c3ca164251f6e97896c7d04436c5f1e1c05",
-  "generated": "2025-04-29T06:50:31.299Z",
+  "commit": "05b7493563c40c171ee545089b2ce3c50e1497f9",
+  "generated": "2025-04-29T06:54:41.770Z",
   "metadata": [
     {
       "__outstatic": {
@@ -55,8 +55,8 @@
     },
     {
       "__outstatic": {
-        "commit": "78914c3ca164251f6e97896c7d04436c5f1e1c05",
-        "hash": "3989793769",
+        "commit": "05b7493563c40c171ee545089b2ce3c50e1497f9",
+        "hash": "3481741856",
         "path": "outstatic/content/docs/change-course-price.mdx"
       },
       "author": {
