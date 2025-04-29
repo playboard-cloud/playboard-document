@@ -1,6 +1,6 @@
 {
-  "commit": "441c44fed84782847a19c0c9c3762ee57ae6ce9e",
-  "generated": "2025-04-29T10:40:31.734Z",
+  "commit": "5c47147eb5d5b9e16bcb65e25a31c3aa830f717f",
+  "generated": "2025-04-29T10:42:14.065Z",
   "metadata": [
     {
       "__outstatic": {
@@ -157,8 +157,8 @@
     },
     {
       "__outstatic": {
-        "commit": "441c44fed84782847a19c0c9c3762ee57ae6ce9e",
-        "hash": "2145481999",
+        "commit": "5c47147eb5d5b9e16bcb65e25a31c3aa830f717f",
+        "hash": "2850552035",
         "path": "outstatic/content/docs/playboard-khuue-aair.mdx"
       },
       "author": {
@@ -169,7 +169,7 @@
       "coverImage": "",
       "publishedAt": "2025-04-29T11:21:50.659Z",
       "slug": "playboard-khuue-aair",
-      "status": "draft",
+      "status": "published",
       "title": "Playboard คืออะไร"
     }
   ]
