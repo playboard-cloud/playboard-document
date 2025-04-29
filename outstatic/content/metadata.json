@@ -1,6 +1,6 @@
 {
-  "commit": "a2972089d83d96fd2b9d0cc4634fd002fbef5bce",
-  "generated": "2025-04-29T10:43:31.569Z",
+  "commit": "62196120e2a3f3788ee2dac64d1aa8e9fff2697b",
+  "generated": "2025-04-29T10:43:45.635Z",
   "metadata": [
     {
       "__outstatic": {
@@ -140,40 +140,6 @@
     },
     {
       "__outstatic": {
-        "commit": "c8214017e90cfe87b6d7cf2bd52358011e8b85dc",
-        "hash": "1068339722",
-        "path": "outstatic/content/docs/what-is-playboard.mdx"
-      },
-      "author": {
-        "name": "kanpech-t",
-        "picture": ""
-      },
-      "collection": "docs",
-      "coverImage": "",
-      "publishedAt": "2025-04-29T11:19:54.574Z",
-      "slug": "what-is-playboard",
-      "status": "published",
-      "title": "Playboard ทำอะไรได้บ้าง"
-    },
-    {
-      "__outstatic": {
-        "commit": "7589e74d745ce31ad8a3ed2ead3dc1aa51cc4c4c",
-        "hash": "2968644871",
-        "path": "outstatic/content/docs/playboard-khuue-aair.mdx"
-      },
-      "author": {
-        "name": "am-nuntita",
-        "picture": ""
-      },
-      "collection": "docs",
-      "coverImage": "",
-      "publishedAt": "2025-04-29T11:21:50.659Z",
-      "slug": "playboard-khuue-aair",
-      "status": "published",
-      "title": "Playboard คืออะไร"
-    },
-    {
-      "__outstatic": {
         "commit": "a2972089d83d96fd2b9d0cc4634fd002fbef5bce",
         "hash": "232977974",
         "path": "outstatic/content/docs/get-started.mdx"
@@ -188,6 +154,23 @@
       "slug": "get-started",
       "status": "draft",
       "title": "วิธีการใช้งาน Playboard เบื้องต้น"
+    },
+    {
+      "__outstatic": {
+        "commit": "62196120e2a3f3788ee2dac64d1aa8e9fff2697b",
+        "hash": "1679275462",
+        "path": "outstatic/content/docs/what-is-playboard.mdx"
+      },
+      "author": {
+        "name": "am-nuntita",
+        "picture": ""
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "publishedAt": "2025-04-29T11:21:50.659Z",
+      "slug": "what-is-playboard",
+      "status": "published",
+      "title": "Playboard คืออะไร"
     }
   ]
 }
