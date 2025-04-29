@@ -1,6 +1,6 @@
 {
-  "commit": "3dbf73640f974f73fab41d475c8f8e342991b985",
-  "generated": "2025-04-29T07:22:25.295Z",
+  "commit": "10287bde2299e834266bdeccf3be391b0e632da7",
+  "generated": "2025-04-29T07:27:53.032Z",
   "metadata": [
     {
       "__outstatic": {
@@ -69,6 +69,23 @@
       "slug": "change-course-price",
       "status": "published",
       "title": "การแก้ไขราคา"
+    },
+    {
+      "__outstatic": {
+        "commit": "10287bde2299e834266bdeccf3be391b0e632da7",
+        "hash": "2635593664",
+        "path": "outstatic/content/docs/hnaatangkhaakaarrabchamracchaakphuuchuue.mdx"
+      },
+      "author": {
+        "name": "kanpech-t",
+        "picture": ""
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "publishedAt": "2025-04-29T08:08:43.713Z",
+      "slug": "hnaatangkhaakaarrabchamracchaakphuuchuue",
+      "status": "draft",
+      "title": "หน้าตั้งค่าการรับชำระจากผู้ซื้อ"
     }
   ]
 }
