@@ -1,6 +1,6 @@
 {
-  "commit": "54483a3eff1acf0f40c73c09acc6779c38c2adaf",
-  "generated": "2025-04-29T12:59:38.246Z",
+  "commit": "7afb1d63d89ea50d2d0cc5d50b4b0665778d5479",
+  "generated": "2025-04-29T12:59:45.008Z",
   "metadata": [
     {
       "__outstatic": {
@@ -174,9 +174,9 @@
     },
     {
       "__outstatic": {
-        "commit": "54483a3eff1acf0f40c73c09acc6779c38c2adaf",
-        "hash": "2504985486",
-        "path": "outstatic/content/docs/playboard-beginner.mdx"
+        "commit": "7afb1d63d89ea50d2d0cc5d50b4b0665778d5479",
+        "hash": "128885343",
+        "path": "outstatic/content/docs/playboard-for-beginner.mdx"
       },
       "author": {
         "name": "Irisia",
@@ -185,7 +185,7 @@
       "collection": "docs",
       "coverImage": "",
       "publishedAt": "2025-04-29T11:24:57.267Z",
-      "slug": "playboard-beginner",
+      "slug": "playboard-for-beginner",
       "status": "published",
       "title": "วิธีการใช้งาน Playboard เบื้องต้น"
     }
