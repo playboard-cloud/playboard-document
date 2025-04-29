@@ -1,6 +1,6 @@
 {
-  "commit": "83e6a3e856524751ccbf6759b91d07bb3696d56c",
-  "generated": "2025-04-29T10:33:14.389Z",
+  "commit": "87795f84abdb705b20d7beb2e0dd02850cce84be",
+  "generated": "2025-04-29T10:33:20.065Z",
   "metadata": [
     {
       "__outstatic": {
@@ -123,8 +123,8 @@
     },
     {
       "__outstatic": {
-        "commit": "83e6a3e856524751ccbf6759b91d07bb3696d56c",
-        "hash": "3690770440",
+        "commit": "87795f84abdb705b20d7beb2e0dd02850cce84be",
+        "hash": "577387513",
         "path": "outstatic/content/docs/package.mdx"
       },
       "author": {
@@ -135,7 +135,7 @@
       "coverImage": "",
       "publishedAt": "2025-04-29T11:04:21.424Z",
       "slug": "package",
-      "status": "draft",
+      "status": "published",
       "title": "หน้าแพ็กเกจที่ใช้งาน"
     }
   ]
