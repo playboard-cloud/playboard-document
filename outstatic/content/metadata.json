@@ -1,6 +1,6 @@
 {
-  "commit": "b231a1f4b1396efaa3086d1e318f6de808a3cfec",
-  "generated": "2025-04-29T10:29:37.510Z",
+  "commit": "6047a1c4497def200c71447bf077368adcbce53d",
+  "generated": "2025-04-29T10:29:55.821Z",
   "metadata": [
     {
       "__outstatic": {
@@ -72,23 +72,6 @@
     },
     {
       "__outstatic": {
-        "commit": "325c0b9232db5dbe168af57183982b020dbed312",
-        "hash": "1229789679",
-        "path": "outstatic/content/docs/payment-setting.mdx"
-      },
-      "author": {
-        "name": "kanpech-t",
-        "picture": ""
-      },
-      "collection": "docs",
-      "coverImage": "",
-      "publishedAt": "2025-04-29T08:08:43.713Z",
-      "slug": "payment-setting",
-      "status": "published",
-      "title": "หน้าตั้งค่าการรับชำระจากผู้ซื้อ"
-    },
-    {
-      "__outstatic": {
         "commit": "ca5f154bbded1c1337a747996fa2b4f38e4a1305",
         "hash": "1497643237",
         "path": "outstatic/content/docs/order-detail.mdx"
@@ -137,6 +120,23 @@
       "slug": "order-history",
       "status": "published",
       "title": "หน้ารายการคำสั่งซื้อ"
+    },
+    {
+      "__outstatic": {
+        "commit": "6047a1c4497def200c71447bf077368adcbce53d",
+        "hash": "1323596564",
+        "path": "outstatic/content/docs/payment-setting.mdx"
+      },
+      "author": {
+        "name": "kanpech-t",
+        "picture": ""
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "publishedAt": "2025-04-29T08:08:43.713Z",
+      "slug": "payment-setting",
+      "status": "published",
+      "title": "หน้าตั้งค่าการรับชำระจากผู้ซื้อ"
     }
   ]
 }
