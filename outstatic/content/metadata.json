@@ -1,6 +1,6 @@
 {
-  "commit": "c8214017e90cfe87b6d7cf2bd52358011e8b85dc",
-  "generated": "2025-04-29T10:39:44.068Z",
+  "commit": "441c44fed84782847a19c0c9c3762ee57ae6ce9e",
+  "generated": "2025-04-29T10:40:31.734Z",
   "metadata": [
     {
       "__outstatic": {
@@ -154,6 +154,23 @@
       "slug": "what-is-playboard",
       "status": "published",
       "title": "Playboard ทำอะไรได้บ้าง"
+    },
+    {
+      "__outstatic": {
+        "commit": "441c44fed84782847a19c0c9c3762ee57ae6ce9e",
+        "hash": "2145481999",
+        "path": "outstatic/content/docs/playboard-khuue-aair.mdx"
+      },
+      "author": {
+        "name": "kanpech-t",
+        "picture": ""
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "publishedAt": "2025-04-29T11:21:50.659Z",
+      "slug": "playboard-khuue-aair",
+      "status": "draft",
+      "title": "Playboard คืออะไร"
     }
   ]
 }
