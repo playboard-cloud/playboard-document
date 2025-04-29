@@ -1,6 +1,6 @@
 {
-  "commit": "87795f84abdb705b20d7beb2e0dd02850cce84be",
-  "generated": "2025-04-29T10:33:20.065Z",
+  "commit": "f8b487f8b8e3a3185dd2f88fc12f46bcacd9fbe9",
+  "generated": "2025-04-29T10:38:36.319Z",
   "metadata": [
     {
       "__outstatic": {
@@ -137,6 +137,23 @@
       "slug": "package",
       "status": "published",
       "title": "หน้าแพ็กเกจที่ใช้งาน"
+    },
+    {
+      "__outstatic": {
+        "commit": "f8b487f8b8e3a3185dd2f88fc12f46bcacd9fbe9",
+        "hash": "1010107064",
+        "path": "outstatic/content/docs/what-is-playboard.mdx"
+      },
+      "author": {
+        "name": "kanpech-t",
+        "picture": "https://avatars.githubusercontent.com/u/78334455?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "publishedAt": "2025-04-29T11:19:54.574Z",
+      "slug": "what-is-playboard",
+      "status": "published",
+      "title": "Playboard ทำอะไรได้บ้าง"
     }
   ]
 }
