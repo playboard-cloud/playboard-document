@@ -1,6 +1,6 @@
 {
-  "commit": "b4104d4826027755b15efa77364937b352974065",
-  "generated": "2025-04-29T08:02:38.032Z",
+  "commit": "77e28cb03bdeaa2d8566a71efede4b64e81b1c30",
+  "generated": "2025-04-29T08:11:46.684Z",
   "metadata": [
     {
       "__outstatic": {
@@ -72,8 +72,8 @@
     },
     {
       "__outstatic": {
-        "commit": "b4104d4826027755b15efa77364937b352974065",
-        "hash": "4168202496",
+        "commit": "77e28cb03bdeaa2d8566a71efede4b64e81b1c30",
+        "hash": "711070305",
         "path": "outstatic/content/docs/payment-setting.mdx"
       },
       "author": {
