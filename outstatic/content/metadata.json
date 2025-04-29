@@ -1,6 +1,6 @@
 {
-  "commit": "62196120e2a3f3788ee2dac64d1aa8e9fff2697b",
-  "generated": "2025-04-29T10:43:45.635Z",
+  "commit": "33f5af3ee04b85867f65965f5b2cb7fb321b2bab",
+  "generated": "2025-04-29T10:45:45.388Z",
   "metadata": [
     {
       "__outstatic": {
@@ -171,6 +171,23 @@
       "slug": "what-is-playboard",
       "status": "published",
       "title": "Playboard คืออะไร"
+    },
+    {
+      "__outstatic": {
+        "commit": "33f5af3ee04b85867f65965f5b2cb7fb321b2bab",
+        "hash": "3597599516",
+        "path": "outstatic/content/docs/what-playboard-can-do.mdx"
+      },
+      "author": {
+        "name": "kanpech-t",
+        "picture": ""
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "publishedAt": "2025-04-29T11:26:18.397Z",
+      "slug": "what-playboard-can-do",
+      "status": "published",
+      "title": "Playboard ทำอะไรได้บ้าง"
     }
   ]
 }
