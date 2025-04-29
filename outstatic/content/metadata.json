@@ -1,6 +1,6 @@
 {
-  "commit": "d8a47f66a04debfc95a9f82b98a987d9457d1dca",
-  "generated": "2025-04-29T10:39:37.516Z",
+  "commit": "c8214017e90cfe87b6d7cf2bd52358011e8b85dc",
+  "generated": "2025-04-29T10:39:44.068Z",
   "metadata": [
     {
       "__outstatic": {
@@ -140,8 +140,8 @@
     },
     {
       "__outstatic": {
-        "commit": "d8a47f66a04debfc95a9f82b98a987d9457d1dca",
-        "hash": "734154331",
+        "commit": "c8214017e90cfe87b6d7cf2bd52358011e8b85dc",
+        "hash": "1068339722",
         "path": "outstatic/content/docs/what-is-playboard.mdx"
       },
       "author": {
