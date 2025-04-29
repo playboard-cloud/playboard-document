@@ -1,6 +1,6 @@
 {
-  "commit": "5c47147eb5d5b9e16bcb65e25a31c3aa830f717f",
-  "generated": "2025-04-29T10:42:14.065Z",
+  "commit": "7589e74d745ce31ad8a3ed2ead3dc1aa51cc4c4c",
+  "generated": "2025-04-29T10:42:25.832Z",
   "metadata": [
     {
       "__outstatic": {
@@ -157,12 +157,12 @@
     },
     {
       "__outstatic": {
-        "commit": "5c47147eb5d5b9e16bcb65e25a31c3aa830f717f",
-        "hash": "2850552035",
+        "commit": "7589e74d745ce31ad8a3ed2ead3dc1aa51cc4c4c",
+        "hash": "2968644871",
         "path": "outstatic/content/docs/playboard-khuue-aair.mdx"
       },
       "author": {
-        "name": "kanpech-t",
+        "name": "am-nuntita",
         "picture": ""
       },
       "collection": "docs",
