@@ -1,6 +1,6 @@
 {
-  "commit": "bc71f7cd914040fc1dc2e700be719cb84ccfcd5d",
-  "generated": "2025-04-29T06:20:03.621Z",
+  "commit": "7ffd108ec0ff84f9b8c1512e9b99efa48807b747",
+  "generated": "2025-04-29T06:29:59.675Z",
   "metadata": [
     {
       "__outstatic": {
@@ -38,9 +38,9 @@
     },
     {
       "__outstatic": {
-        "commit": "bc71f7cd914040fc1dc2e700be719cb84ccfcd5d",
-        "hash": "1592170722",
-        "path": "outstatic/content/docs/hnaaraaylae-iiydenuue-haa.mdx"
+        "commit": "7ffd108ec0ff84f9b8c1512e9b99efa48807b747",
+        "hash": "491510497",
+        "path": "outstatic/content/docs/video-setting.mdx"
       },
       "author": {
         "name": "Irisia",
@@ -49,7 +49,7 @@
       "collection": "docs",
       "coverImage": "",
       "publishedAt": "2025-04-29T07:01:10.811Z",
-      "slug": "hnaaraaylae-iiydenuue-haa",
+      "slug": "video-setting",
       "status": "draft",
       "title": "หน้ารายละเอียดเนื้อหา"
     }
