@@ -1,6 +1,6 @@
 {
-  "commit": "7afb1d63d89ea50d2d0cc5d50b4b0665778d5479",
-  "generated": "2025-04-29T12:59:45.008Z",
+  "commit": "c2045d163d673a81fbaa5f50458108ec16713449",
+  "generated": "2025-04-29T13:04:28.112Z",
   "metadata": [
     {
       "__outstatic": {
@@ -174,8 +174,8 @@
     },
     {
       "__outstatic": {
-        "commit": "7afb1d63d89ea50d2d0cc5d50b4b0665778d5479",
-        "hash": "128885343",
+        "commit": "c2045d163d673a81fbaa5f50458108ec16713449",
+        "hash": "2603888596",
         "path": "outstatic/content/docs/playboard-for-beginner.mdx"
       },
       "author": {
