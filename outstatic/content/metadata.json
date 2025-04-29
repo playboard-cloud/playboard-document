@@ -1,6 +1,6 @@
 {
-  "commit": "b7bb8203fd439fca3feda887dd0799dc7d19c7ec",
-  "generated": "2025-04-29T06:50:08.063Z",
+  "commit": "a1c29a7303fec245a3471619d8d04792b0ccddb2",
+  "generated": "2025-04-29T06:50:22.342Z",
   "metadata": [
     {
       "__outstatic": {
@@ -38,23 +38,6 @@
     },
     {
       "__outstatic": {
-        "commit": "a7d80db13daa1fa975199837188dfdb51376cf8a",
-        "hash": "1122835146",
-        "path": "outstatic/content/docs/video-setting.mdx"
-      },
-      "author": {
-        "name": "Irisia",
-        "picture": "https://avatars.githubusercontent.com/u/78334455?v=4"
-      },
-      "collection": "docs",
-      "coverImage": "",
-      "publishedAt": "2025-04-29T07:01:10.811Z",
-      "slug": "video-setting",
-      "status": "published",
-      "title": "หน้ารายละเอียดเนื้อหา"
-    },
-    {
-      "__outstatic": {
         "commit": "b7bb8203fd439fca3feda887dd0799dc7d19c7ec",
         "hash": "3156873378",
         "path": "outstatic/content/docs/change-course-price.mdx"
@@ -69,6 +52,23 @@
       "slug": "change-course-price",
       "status": "draft",
       "title": "การแก้ไขราคา"
+    },
+    {
+      "__outstatic": {
+        "commit": "a1c29a7303fec245a3471619d8d04792b0ccddb2",
+        "hash": "2010934993",
+        "path": "outstatic/content/docs/video-setting.mdx"
+      },
+      "author": {
+        "name": "kanpech-t",
+        "picture": ""
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "publishedAt": "2025-04-29T07:01:10.811Z",
+      "slug": "video-setting",
+      "status": "published",
+      "title": "หน้ารายละเอียดเนื้อหา"
     }
   ]
 }
