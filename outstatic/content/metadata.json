@@ -1,6 +1,6 @@
 {
-  "commit": "028d44e2eab6b076a886219a1a19f6ee71d24bee",
-  "generated": "2025-04-29T10:29:21.602Z",
+  "commit": "b231a1f4b1396efaa3086d1e318f6de808a3cfec",
+  "generated": "2025-04-29T10:29:37.510Z",
   "metadata": [
     {
       "__outstatic": {
@@ -106,23 +106,6 @@
     },
     {
       "__outstatic": {
-        "commit": "0fd40a8516c84dadb247a55dadc554274eba109c",
-        "hash": "2811804572",
-        "path": "outstatic/content/docs/order-history.mdx"
-      },
-      "author": {
-        "name": "kanpech-t",
-        "picture": ""
-      },
-      "collection": "docs",
-      "coverImage": "",
-      "publishedAt": "2025-04-29T09:27:41.940Z",
-      "slug": "order-history",
-      "status": "published",
-      "title": "หน้ารายการคำสั่งซื้อ"
-    },
-    {
-      "__outstatic": {
         "commit": "028d44e2eab6b076a886219a1a19f6ee71d24bee",
         "hash": "1217068500",
         "path": "outstatic/content/docs/package.mdx"
@@ -137,6 +120,23 @@
       "slug": "package",
       "status": "draft",
       "title": "หน้าแพ็กเกจที่ใช้งาน"
+    },
+    {
+      "__outstatic": {
+        "commit": "b231a1f4b1396efaa3086d1e318f6de808a3cfec",
+        "hash": "642289488",
+        "path": "outstatic/content/docs/order-history.mdx"
+      },
+      "author": {
+        "name": "kanpech-t",
+        "picture": ""
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "publishedAt": "2025-04-29T09:27:41.940Z",
+      "slug": "order-history",
+      "status": "published",
+      "title": "หน้ารายการคำสั่งซื้อ"
     }
   ]
 }
