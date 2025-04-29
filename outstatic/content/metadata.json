@@ -1,6 +1,6 @@
 {
-  "commit": "a1c29a7303fec245a3471619d8d04792b0ccddb2",
-  "generated": "2025-04-29T06:50:22.342Z",
+  "commit": "78914c3ca164251f6e97896c7d04436c5f1e1c05",
+  "generated": "2025-04-29T06:50:31.299Z",
   "metadata": [
     {
       "__outstatic": {
@@ -38,23 +38,6 @@
     },
     {
       "__outstatic": {
-        "commit": "b7bb8203fd439fca3feda887dd0799dc7d19c7ec",
-        "hash": "3156873378",
-        "path": "outstatic/content/docs/change-course-price.mdx"
-      },
-      "author": {
-        "name": "Maikan",
-        "picture": ""
-      },
-      "collection": "docs",
-      "coverImage": "",
-      "publishedAt": "2025-04-29T07:26:46.547Z",
-      "slug": "change-course-price",
-      "status": "draft",
-      "title": "การแก้ไขราคา"
-    },
-    {
-      "__outstatic": {
         "commit": "a1c29a7303fec245a3471619d8d04792b0ccddb2",
         "hash": "2010934993",
         "path": "outstatic/content/docs/video-setting.mdx"
@@ -69,6 +52,23 @@
       "slug": "video-setting",
       "status": "published",
       "title": "หน้ารายละเอียดเนื้อหา"
+    },
+    {
+      "__outstatic": {
+        "commit": "78914c3ca164251f6e97896c7d04436c5f1e1c05",
+        "hash": "3989793769",
+        "path": "outstatic/content/docs/change-course-price.mdx"
+      },
+      "author": {
+        "name": "kanpech-t",
+        "picture": ""
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "publishedAt": "2025-04-29T07:26:46.547Z",
+      "slug": "change-course-price",
+      "status": "draft",
+      "title": "การแก้ไขราคา"
     }
   ]
 }
