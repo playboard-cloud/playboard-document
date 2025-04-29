@@ -1,6 +1,6 @@
 {
-  "commit": "7589e74d745ce31ad8a3ed2ead3dc1aa51cc4c4c",
-  "generated": "2025-04-29T10:42:25.832Z",
+  "commit": "a2972089d83d96fd2b9d0cc4634fd002fbef5bce",
+  "generated": "2025-04-29T10:43:31.569Z",
   "metadata": [
     {
       "__outstatic": {
@@ -171,6 +171,23 @@
       "slug": "playboard-khuue-aair",
       "status": "published",
       "title": "Playboard คืออะไร"
+    },
+    {
+      "__outstatic": {
+        "commit": "a2972089d83d96fd2b9d0cc4634fd002fbef5bce",
+        "hash": "232977974",
+        "path": "outstatic/content/docs/get-started.mdx"
+      },
+      "author": {
+        "name": "Irisia",
+        "picture": "https://avatars.githubusercontent.com/u/78334455?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "publishedAt": "2025-04-29T11:24:57.267Z",
+      "slug": "get-started",
+      "status": "draft",
+      "title": "วิธีการใช้งาน Playboard เบื้องต้น"
     }
   ]
 }
