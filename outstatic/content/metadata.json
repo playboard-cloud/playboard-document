@@ -1,6 +1,6 @@
 {
-  "commit": "b3b7f0665dd21f87c872c9a755914788a5f1af54",
-  "generated": "2025-04-29T11:59:19.257Z",
+  "commit": "2431ce51ce4a9e337891ebb75cdb023996aa59f3",
+  "generated": "2025-04-29T12:58:02.005Z",
   "metadata": [
     {
       "__outstatic": {
@@ -157,23 +157,6 @@
     },
     {
       "__outstatic": {
-        "commit": "b87b3738bdf7f07ab951925e082a8a1d1ad5b010",
-        "hash": "2567506732",
-        "path": "outstatic/content/docs/get-started.mdx"
-      },
-      "author": {
-        "name": "Irisia",
-        "picture": "https://avatars.githubusercontent.com/u/78334455?v=4"
-      },
-      "collection": "docs",
-      "coverImage": "",
-      "publishedAt": "2025-04-29T11:24:57.267Z",
-      "slug": "get-started",
-      "status": "draft",
-      "title": "วิธีการใช้งาน Playboard เบื้องต้น"
-    },
-    {
-      "__outstatic": {
         "commit": "b3b7f0665dd21f87c872c9a755914788a5f1af54",
         "hash": "1509877607",
         "path": "outstatic/content/docs/change-course-price.mdx"
@@ -188,6 +171,23 @@
       "slug": "change-course-price",
       "status": "published",
       "title": "การแก้ไขราคา"
+    },
+    {
+      "__outstatic": {
+        "commit": "2431ce51ce4a9e337891ebb75cdb023996aa59f3",
+        "hash": "949569092",
+        "path": "outstatic/content/docs/get-started.mdx"
+      },
+      "author": {
+        "name": "Irisia",
+        "picture": "https://avatars.githubusercontent.com/u/78334455?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "publishedAt": "2025-04-29T11:24:57.267Z",
+      "slug": "get-started",
+      "status": "published",
+      "title": "วิธีการใช้งาน Playboard เบื้องต้น"
     }
   ]
 }
