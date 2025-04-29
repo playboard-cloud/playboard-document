@@ -1,6 +1,6 @@
 {
-  "commit": "a7d80db13daa1fa975199837188dfdb51376cf8a",
-  "generated": "2025-04-29T06:42:42.854Z",
+  "commit": "8d31047c0e241dfc8de624caac75e6c8f1e40322",
+  "generated": "2025-04-29T06:49:51.572Z",
   "metadata": [
     {
       "__outstatic": {
@@ -52,6 +52,23 @@
       "slug": "video-setting",
       "status": "published",
       "title": "หน้ารายละเอียดเนื้อหา"
+    },
+    {
+      "__outstatic": {
+        "commit": "8d31047c0e241dfc8de624caac75e6c8f1e40322",
+        "hash": "784787748",
+        "path": "outstatic/content/docs/change-course-price.mdx"
+      },
+      "author": {
+        "name": "Irisia",
+        "picture": "https://avatars.githubusercontent.com/u/78334455?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "publishedAt": "2025-04-29T07:26:46.547Z",
+      "slug": "change-course-price",
+      "status": "draft",
+      "title": "การแก้ไขราคา"
     }
   ]
 }
