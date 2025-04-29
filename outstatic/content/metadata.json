@@ -1,6 +1,6 @@
 {
-  "commit": "c310cc7970ecb3c1d846667befdf9617cf14e1c4",
-  "generated": "2025-04-29T10:02:42.335Z",
+  "commit": "51694cd8d8118decb3c63d51fa5eae3538d844aa",
+  "generated": "2025-04-29T10:07:35.641Z",
   "metadata": [
     {
       "__outstatic": {
@@ -89,23 +89,6 @@
     },
     {
       "__outstatic": {
-        "commit": "9d4ebce817a8e84822bde36122a8c4d3155effd2",
-        "hash": "201676947",
-        "path": "outstatic/content/docs/order-detail.mdx"
-      },
-      "author": {
-        "name": "kanpech-t",
-        "picture": ""
-      },
-      "collection": "docs",
-      "coverImage": "",
-      "publishedAt": "2025-04-29T10:37:17.170Z",
-      "slug": "order-detail",
-      "status": "published",
-      "title": "หน้ารายละเอียดคำสั่งซื้อ"
-    },
-    {
-      "__outstatic": {
         "commit": "c310cc7970ecb3c1d846667befdf9617cf14e1c4",
         "hash": "160322633",
         "path": "outstatic/content/docs/order-history.mdx"
@@ -120,6 +103,23 @@
       "slug": "order-history",
       "status": "published",
       "title": "หน้ารายการคำสั่งซื้อ"
+    },
+    {
+      "__outstatic": {
+        "commit": "51694cd8d8118decb3c63d51fa5eae3538d844aa",
+        "hash": "3501687703",
+        "path": "outstatic/content/docs/order-detail.mdx"
+      },
+      "author": {
+        "name": "kanpech-t",
+        "picture": ""
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "publishedAt": "2025-04-29T10:37:17.170Z",
+      "slug": "order-detail",
+      "status": "published",
+      "title": "หน้ารายละเอียดคำสั่งซื้อ"
     }
   ]
 }
