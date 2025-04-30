@@ -1,4 +1,5 @@
 {
   "title": "docs",
-  "pages": ["index", "-----------", "playboard-for-beginner"]
+  "pages": ["index", "-----------", "playboard-for-beginner", "(course)"],
+  "root": true
 }
