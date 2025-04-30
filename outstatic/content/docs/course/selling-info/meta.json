@@ -1,0 +1,4 @@
+{
+  "title": "ข้อมูลการขาย",
+  "pages": ["selling-setting", "payment-setting", "order-history", "order-detail"]
+}

@@ -1,4 +1,5 @@
 {
   "title": "คลาส",
-  "defaultOpen": true
+  "defaultOpen": true,
+  "pages": ["content-managment", "selling-info", "payment"]
 }
