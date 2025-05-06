@@ -1,3 +1,4 @@
 {
-  "title": "ตั้งค่าการขาย"
+  "title": "ตั้งค่าการขาย",
+  "pages": ["member-setting", "member-plan"]
 }
